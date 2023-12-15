@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
 
 https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt
 
-### 动漫&漫画网站定制规则【三个等级，互不相同，请叠加使用，越高等级越容易误杀】
+### 动漫&漫画网站定制规则 【三个等级，互不相同，请叠加使用，越高等级越容易误杀】
 
 https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt
 
